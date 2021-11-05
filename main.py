@@ -4,4 +4,5 @@ def f0(max: int):
 
 if __name__ == '__main__':
     print('PyCharm')
+    print("Nowa linia")
 
