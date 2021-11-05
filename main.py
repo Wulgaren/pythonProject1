@@ -16,4 +16,4 @@ if __name__ == '__main__':
 
     printText("Przemysław Stokłosa")
     f0(10)
-
+    przemyslawstoklosa()
