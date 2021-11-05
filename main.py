@@ -1,3 +1,6 @@
+def printText(text: str):
+    print(text)
+
 def f0(max: int):
     for i in range(max):
         print(i+1)
