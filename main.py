@@ -11,6 +11,10 @@ def przemyslawstoklosa():
     print("Przemysław Stokłosa")
 
 
+def funkcja3():
+    print('funkcja')
+
+
 if __name__ == '__main__':
     print('PyCharm')
     print("Nowa linia")
